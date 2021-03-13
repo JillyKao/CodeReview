@@ -1,0 +1,11 @@
+D:\CodeReview\StockLib\bin\Debug\net5.0\StockLib.deps.json
+D:\CodeReview\StockLib\bin\Debug\net5.0\StockLib.dll
+D:\CodeReview\StockLib\bin\Debug\net5.0\ref\StockLib.dll
+D:\CodeReview\StockLib\bin\Debug\net5.0\StockLib.pdb
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.AssemblyInfoInputs.cache
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.AssemblyInfo.cs
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.csproj.CoreCompileInputs.cache
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.dll
+D:\CodeReview\StockLib\obj\Debug\net5.0\ref\StockLib.dll
+D:\CodeReview\StockLib\obj\Debug\net5.0\StockLib.pdb

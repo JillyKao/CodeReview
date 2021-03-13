@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOR3gnSgzgazk6L4riejSbj0G3Inzx/5mEnm1I2ch67YXYLW9dEd8KyEPgx/pGvjm4azxd7bbN40AfRP1TSG/Q==",
+  "success": true,
+  "projectFilePath": "D:\\CodeReview\\StockLib\\StockLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeron\\.nuget\\packages\\htmlagilitypack\\1.11.31\\htmlagilitypack.1.11.31.nupkg.sha512"
+  ],
+  "logs": []
+}
