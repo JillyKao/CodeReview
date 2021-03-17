@@ -1,0 +1,11 @@
+D:\CodeReview\StockHomeWork\Protocol\bin\Debug\net5.0\Protocol.deps.json
+D:\CodeReview\StockHomeWork\Protocol\bin\Debug\net5.0\Protocol.dll
+D:\CodeReview\StockHomeWork\Protocol\bin\Debug\net5.0\ref\Protocol.dll
+D:\CodeReview\StockHomeWork\Protocol\bin\Debug\net5.0\Protocol.pdb
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.AssemblyInfoInputs.cache
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.AssemblyInfo.cs
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.csproj.CoreCompileInputs.cache
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.dll
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\ref\Protocol.dll
+D:\CodeReview\StockHomeWork\Protocol\obj\Debug\net5.0\Protocol.pdb

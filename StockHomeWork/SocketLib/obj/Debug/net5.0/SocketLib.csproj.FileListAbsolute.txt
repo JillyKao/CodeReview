@@ -1,0 +1,11 @@
+D:\CodeReview\StockHomeWork\SocketLib\bin\Debug\net5.0\SocketLib.deps.json
+D:\CodeReview\StockHomeWork\SocketLib\bin\Debug\net5.0\SocketLib.dll
+D:\CodeReview\StockHomeWork\SocketLib\bin\Debug\net5.0\ref\SocketLib.dll
+D:\CodeReview\StockHomeWork\SocketLib\bin\Debug\net5.0\SocketLib.pdb
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.AssemblyInfoInputs.cache
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.AssemblyInfo.cs
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.csproj.CoreCompileInputs.cache
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.dll
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\ref\SocketLib.dll
+D:\CodeReview\StockHomeWork\SocketLib\obj\Debug\net5.0\SocketLib.pdb

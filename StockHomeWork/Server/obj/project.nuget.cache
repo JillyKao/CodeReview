@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHt/b743irXq5aSqNtziyC2k6rxbluWTQCk7Mg9lgP83egbUS7qU78v/bSBMialrIdj3AdnEZx4E/Gbc+/ws2A==",
+  "success": true,
+  "projectFilePath": "D:\\CodeReview\\StockHomeWork\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeron\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
