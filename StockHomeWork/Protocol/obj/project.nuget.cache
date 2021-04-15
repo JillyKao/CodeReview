@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lSoh7OG1qK+eeRbIbP+6iUPhCCRh6h2TWPwWKZgmPdhAI2+nukxYD6xRTCr/FufAHaH1D63ncxQCHNqHlfiA2w==",
+  "dgSpecHash": "zo3wT9nw75KcsfZsLy3z00XnRQxEdbM7XFmvXr6Q1cbCaoLImSunJtuLZocan5uv79yMTQlWjvSgnAm+R2/ZqA==",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
+  "projectFilePath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

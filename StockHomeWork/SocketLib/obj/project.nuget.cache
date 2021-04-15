@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5LGkcXW65x/j+Hn8iYirLesU5qy4nCChV8iqJQQKjJ6Yzir+b6jA/BtBeij8s02XIS+8miA9WTkacCGOFwwtg==",
+  "dgSpecHash": "eRm3hjKOwcjcaG6/hoHp/SUwbS/3Y4t8FIxFmY12pxoa+BfVSTUQAxMJZQpnip6GJVexFuPmGJOpbAHKt8rZjw==",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
+  "projectFilePath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

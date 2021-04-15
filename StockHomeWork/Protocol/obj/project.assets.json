@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
+      "projectUniqueName": "D:\\CodeReview\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
       "projectName": "Protocol",
-      "projectPath": "D:\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
+      "projectPath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\Protocol\\Protocol.csproj",
       "packagesPath": "C:\\Users\\zeron\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeReview\\StockHomeWork\\Protocol\\obj\\",
+      "outputPath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\Protocol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

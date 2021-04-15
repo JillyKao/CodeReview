@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1Y9R3O9RVRtUSXp5u4+LB4gRADog5oCLTJd9rG8/lq07W3yXTWJNMr2erkmNUWc1Re5H53gQfmlureqYjPliQ==",
+  "dgSpecHash": "qp4vLx7q9dvpX4eTtrjCw266ZC1s1PEtxClyjlBs9Qmbbd08sL1jfTfkLUmNyoZxk/rOBts7hh4aRYBbgPZg1A==",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\StockHomeWork\\Client\\Client.csproj",
+  "projectFilePath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zeron\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

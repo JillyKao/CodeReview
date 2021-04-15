@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj": {}
+    "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj": {}
   },
   "projects": {
-    "D:\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj": {
+    "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
+        "projectUniqueName": "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
         "projectName": "SocketLib",
-        "projectPath": "D:\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
+        "projectPath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\SocketLib.csproj",
         "packagesPath": "C:\\Users\\zeron\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeReview\\StockHomeWork\\SocketLib\\obj\\",
+        "outputPath": "D:\\CodeReview\\CodeReview\\StockHomeWork\\SocketLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
