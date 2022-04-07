@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\proto/API.cs \
+obj\Debug\netcoreapp3.1\proto/APIGrpc.cs: proto/API.proto

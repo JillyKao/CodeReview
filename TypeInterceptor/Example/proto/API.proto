@@ -1,0 +1,26 @@
+﻿syntax = "proto3";
+
+service API
+{
+	rpc API1 (Message1) returns (Message2);
+	rpc API2 (Message3) returns (Message4);
+}
+
+message Message1
+{
+    string Msg = 1;
+}
+
+message Message2
+{
+	string Msg = 1;
+}
+message Message3
+{
+    string Msg = 1;
+}
+
+message Message4
+{
+	string Msg = 1;
+}

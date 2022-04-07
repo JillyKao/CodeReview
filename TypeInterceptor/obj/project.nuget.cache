@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cU1jn/X/eAeyJbuVuBnARD+Iipv4nkEaEQpwX8sZH/+m5Ry8m+LlEbnDyt9PaETv9zeHTul74ecqgN+PiiyMVg==",
+  "success": true,
+  "projectFilePath": "D:\\CodeReview\\CodeReview\\TypeInterceptor\\TypeInterceptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeron\\.nuget\\packages\\grpc.core\\2.31.0\\grpc.core.2.31.0.nupkg.sha512",
+    "C:\\Users\\zeron\\.nuget\\packages\\grpc.core.api\\2.31.0\\grpc.core.api.2.31.0.nupkg.sha512",
+    "C:\\Users\\zeron\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\zeron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zeron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zeron\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

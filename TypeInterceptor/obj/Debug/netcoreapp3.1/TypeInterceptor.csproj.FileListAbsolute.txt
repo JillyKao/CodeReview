@@ -1,0 +1,9 @@
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.csprojAssemblyReference.cache
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.AssemblyInfoInputs.cache
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.AssemblyInfo.cs
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.csproj.CoreCompileInputs.cache
+D:\CodeReview\CodeReview\TypeInterceptor\bin\Debug\netcoreapp3.1\TypeInterceptor.deps.json
+D:\CodeReview\CodeReview\TypeInterceptor\bin\Debug\netcoreapp3.1\TypeInterceptor.dll
+D:\CodeReview\CodeReview\TypeInterceptor\bin\Debug\netcoreapp3.1\TypeInterceptor.pdb
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.dll
+D:\CodeReview\CodeReview\TypeInterceptor\obj\Debug\netcoreapp3.1\TypeInterceptor.pdb
